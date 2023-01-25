@@ -3,7 +3,7 @@ Data2Vec
 
 ### Architecture
 ![data2vec](./figures/self_supervised_structure.png)
-Base netowkr -> ViT
+Base network -> ViT
 ### Problem definition
 We use the MNIST and CIFAR10 datastes to show the framework works well in practice.  
 And any model can apply this framework by self-supervised sequence module.
